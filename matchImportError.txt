@@ -220,11 +220,6 @@ done 2018 FC-Basel
 Index Error:  https://www.weltfussball.com/spielbericht/super-league-2018-2019-FC-Sion-Grasshopper-Club-Zuerich_2/
 done 2018 FC-Sion
 done 2018 FC-Thun
-Traceback (most recent call last):
-  File "/Users/cyrillbader/Code/pml-dataScraper/MatchScraper.py", line 129, in <module>
-    success2 = extract_game_data(urlSecondGame, matchFile)
-  File "/Users/cyrillbader/Code/pml-dataScraper/MatchScraper.py", line 31, in extract_game_data
-    attendance = meta_table[5].contents[0].strip().replace(".", "")
-TypeError: 'NoneType' object is not callable
-
-Process finished with exit code 1
+Type Error:  https://www.weltfussball.com/spielbericht/super-league-2018-2019-FC-Luzern-Grasshopper-Club-Zuerich_2/
+done 2018 FC-Luzern
+done 2018 Grasshopper-Club-Zuerich

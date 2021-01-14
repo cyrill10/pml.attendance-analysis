@@ -8,10 +8,12 @@ def extract_game_data(game_url, match_file):
     if page.status_code == 200:
         home_team = ""
         away_team = ""
+        result = ""
         date = ""
         match_time = ""
         stadium = ""
         attendance = ""
+        match_day = ""
         html = page.content.decode('utf-8')
         soup = BeautifulSoup(html, "html.parser")
 
@@ -22,6 +24,7 @@ def extract_game_data(game_url, match_file):
 
             home_team = teams_table[0].a.contents[0]
             away_team = teams_table[2].a.contents[0]
+            result = page_tables[0].find("div",  {"class": "resultat"}).contents[0].strip()
             date = teams_table[1].contents[0].strip()
             match_time = teams_table[1].contents[2].strip().split(" ")[0]
 
@@ -29,11 +32,16 @@ def extract_game_data(game_url, match_file):
 
             stadium = meta_table[2].a.contents[0]
             attendance = meta_table[5].contents[0].strip().replace(".", "")
+
+            match_day = soup.findAll("select", {"name": "phase2"})[0].find("option", {
+                "selected": "selected"})['value'].split("/")[-2]
         except IndexError:
             print("Index Error: " + " " + game_url)
+        except TypeError:
+            print("Type Error: " + " " + game_url)
 
         match_file.write(date + "," + match_time + "," + stadium + "," + attendance + "," + home_team +
-                         "," + away_team + "\n")
+                         "," + away_team + "," + match_day + "," + result + "\n")
         return 0
     else:
         return -1
