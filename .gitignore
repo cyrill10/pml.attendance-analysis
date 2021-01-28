@@ -130,4 +130,4 @@ dmypy.json
 
 .idea
 
-pml.dataScraper.iml
+*.iml

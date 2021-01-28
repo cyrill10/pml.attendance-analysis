@@ -94,9 +94,9 @@ def easy_fix_url(url, match_file):
     return success_new
 
 
-teamData = open("teams_per_season.csv", "r")
+teamData = open("../data/teams_per_season.csv", "r")
 
-matchFile = open("matches.csv", "a")
+matchFile = open("../data/matches.csv", "a")
 
 matchURL = "https://www.weltfussball.com/spielbericht/super-league-{year1}-{year2}-{homeTeam}-{awayTeam}{index}/"
 

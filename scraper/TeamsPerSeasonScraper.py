@@ -7,7 +7,7 @@ latestSeason = 2002
 LAST_SEASON = 2018
 
 
-file = open("teams_per_season.csv", "a")
+file = open("../data/teams_per_season.csv", "a")
 
 while latestSeason < LAST_SEASON:
     latestSeason += 1

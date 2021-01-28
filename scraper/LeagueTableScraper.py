@@ -8,7 +8,7 @@ LAST_SEASON = 2010
 
 NUM_MATCHDAYS = 36
 
-file = open("league-table.csv", "a")
+file = open("../data/league-table.csv", "a")
 
 while latestSeason < LAST_SEASON:
     latestSeason += 1
