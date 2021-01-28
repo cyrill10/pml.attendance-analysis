@@ -7,10 +7,10 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,36,6,FC St. Gallen,13,7,16,49,58,46
 2018,36,7,FC Zürich,11,11,14,43,52,44
 2018,36,8,FC Sion,12,7,17,50,55,43
-2018,36,9,Neuchâtel Xamax FCS,9,10,17,44,65,37
+2018,36,9,Neuchâtel Xamax FC,9,10,17,44,65,37
 2018,36,10,Grasshopper Club Zürich,5,10,21,32,71,25
 2018,1,1,BSC Young Boys,1,0,0,2,0,3
-2018,1,2,Neuchâtel Xamax FCS,1,0,0,2,0,3
+2018,1,2,Neuchâtel Xamax FC,1,0,0,2,0,3
 2018,1,3,FC Lugano,1,0,0,2,1,3
 2018,1,4,FC St. Gallen,1,0,0,2,1,3
 2018,1,5,FC Zürich,1,0,0,2,1,3
@@ -21,7 +21,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,1,10,Grasshopper Club Zürich,0,0,1,0,2,0
 2018,2,1,BSC Young Boys,2,0,0,4,0,6
 2018,2,2,FC Zürich,2,0,0,4,1,6
-2018,2,3,Neuchâtel Xamax FCS,1,1,0,3,1,4
+2018,2,3,Neuchâtel Xamax FC,1,1,0,3,1,4
 2018,2,4,FC Sion,1,0,1,5,4,3
 2018,2,5,FC Thun,1,0,1,3,3,3
 2018,2,6,FC St. Gallen,1,0,1,4,5,3
@@ -34,7 +34,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,3,3,FC St. Gallen,2,0,1,7,7,6
 2018,3,4,FC Zürich,2,0,1,4,5,6
 2018,3,5,FC Basel,1,1,1,6,5,4
-2018,3,6,Neuchâtel Xamax FCS,1,1,1,3,4,4
+2018,3,6,Neuchâtel Xamax FC,1,1,1,3,4,4
 2018,3,7,FC Luzern,1,0,2,5,6,3
 2018,3,8,FC Thun,1,0,2,5,6,3
 2018,3,9,FC Lugano,1,0,2,4,7,3
@@ -46,7 +46,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,4,5,FC Sion,2,0,2,10,7,6
 2018,4,6,FC Thun,2,0,2,10,7,6
 2018,4,7,FC Lugano,1,1,2,6,9,4
-2018,4,8,Neuchâtel Xamax FCS,1,1,2,4,9,4
+2018,4,8,Neuchâtel Xamax FC,1,1,2,4,9,4
 2018,4,9,FC Luzern,1,0,3,7,9,3
 2018,4,10,Grasshopper Club Zürich,0,1,3,4,10,1
 2018,5,1,BSC Young Boys,5,0,0,16,4,15
@@ -58,7 +58,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,5,7,FC Luzern,2,0,3,8,9,6
 2018,5,8,FC Lugano,1,2,2,7,10,5
 2018,5,9,Grasshopper Club Zürich,1,1,3,6,11,4
-2018,5,10,Neuchâtel Xamax FCS,1,1,3,6,14,4
+2018,5,10,Neuchâtel Xamax FC,1,1,3,6,14,4
 2018,6,1,BSC Young Boys,6,0,0,19,4,18
 2018,6,2,FC St. Gallen,3,1,2,10,10,10
 2018,6,3,FC Basel,2,3,1,11,9,9
@@ -68,7 +68,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,6,7,FC Zürich,2,2,2,5,7,8
 2018,6,8,FC Sion,2,0,4,11,12,6
 2018,6,9,Grasshopper Club Zürich,1,1,4,7,13,4
-2018,6,10,Neuchâtel Xamax FCS,1,1,4,8,17,4
+2018,6,10,Neuchâtel Xamax FC,1,1,4,8,17,4
 2018,7,1,BSC Young Boys,7,0,0,26,5,21
 2018,7,2,FC Thun,3,2,2,16,10,11
 2018,7,3,FC St. Gallen,3,2,2,12,12,11
@@ -78,7 +78,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,7,7,FC Basel,2,3,2,12,16,9
 2018,7,8,Grasshopper Club Zürich,2,1,4,10,14,7
 2018,7,9,FC Sion,2,0,5,12,16,6
-2018,7,10,Neuchâtel Xamax FCS,1,1,5,9,20,4
+2018,7,10,Neuchâtel Xamax FC,1,1,5,9,20,4
 2018,8,1,BSC Young Boys,8,0,0,28,5,24
 2018,8,2,FC Thun,4,2,2,18,10,14
 2018,8,3,FC Zürich,4,2,2,8,8,14
@@ -87,7 +87,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,8,6,FC Luzern,3,0,5,11,13,9
 2018,8,7,FC Lugano,2,3,3,11,14,9
 2018,8,8,Grasshopper Club Zürich,2,1,5,10,16,7
-2018,8,9,Neuchâtel Xamax FCS,2,1,5,11,21,7
+2018,8,9,Neuchâtel Xamax FC,2,1,5,11,21,7
 2018,8,10,FC Sion,2,0,6,13,18,6
 2018,9,1,BSC Young Boys,9,0,0,32,6,27
 2018,9,2,FC Zürich,4,3,2,8,8,15
@@ -97,7 +97,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,9,6,FC Lugano,2,4,3,13,16,10
 2018,9,7,FC Sion,3,0,6,16,19,9
 2018,9,8,FC Luzern,3,0,6,12,16,9
-2018,9,9,Neuchâtel Xamax FCS,2,2,5,11,21,8
+2018,9,9,Neuchâtel Xamax FC,2,2,5,11,21,8
 2018,9,10,Grasshopper Club Zürich,2,1,6,11,18,7
 2018,10,1,BSC Young Boys,9,0,1,34,9,27
 2018,10,2,FC Zürich,4,4,2,10,10,16
@@ -108,7 +108,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,10,7,FC Sion,3,1,6,17,20,10
 2018,10,8,FC Lugano,2,4,4,14,18,10
 2018,10,9,Grasshopper Club Zürich,3,1,6,13,19,10
-2018,10,10,Neuchâtel Xamax FCS,2,3,5,12,22,9
+2018,10,10,Neuchâtel Xamax FC,2,3,5,12,22,9
 2018,11,1,BSC Young Boys,9,1,1,37,12,28
 2018,11,2,FC Thun,5,3,3,23,16,18
 2018,11,3,FC Zürich,4,5,2,13,13,17
@@ -118,7 +118,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,11,7,FC Luzern,4,0,7,15,20,12
 2018,11,8,FC Sion,3,2,6,17,20,11
 2018,11,9,Grasshopper Club Zürich,3,2,6,13,19,11
-2018,11,10,Neuchâtel Xamax FCS,2,4,5,13,23,10
+2018,11,10,Neuchâtel Xamax FC,2,4,5,13,23,10
 2018,12,1,BSC Young Boys,10,1,1,40,14,31
 2018,12,2,FC Basel,5,5,2,23,22,20
 2018,12,3,FC Thun,5,3,4,24,18,18
@@ -128,7 +128,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,12,7,FC Luzern,5,0,7,17,21,15
 2018,12,8,FC Sion,3,2,7,19,23,11
 2018,12,9,Grasshopper Club Zürich,3,2,7,14,22,11
-2018,12,10,Neuchâtel Xamax FCS,2,4,6,14,25,10
+2018,12,10,Neuchâtel Xamax FC,2,4,6,14,25,10
 2018,13,1,BSC Young Boys,11,1,1,43,14,34
 2018,13,2,FC Basel,6,5,2,26,24,23
 2018,13,3,FC Zürich,5,5,3,20,18,20
@@ -137,7 +137,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,13,6,FC Lugano,4,4,5,21,23,16
 2018,13,7,FC Luzern,5,0,8,19,26,15
 2018,13,8,FC Sion,3,2,8,19,24,11
-2018,13,9,Neuchâtel Xamax FCS,2,5,6,16,27,11
+2018,13,9,Neuchâtel Xamax FC,2,5,6,16,27,11
 2018,13,10,Grasshopper Club Zürich,3,2,8,14,25,11
 2018,14,1,BSC Young Boys,12,1,1,46,16,37
 2018,14,2,FC Basel,6,5,3,28,28,23
@@ -148,7 +148,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,14,7,FC Lugano,4,4,6,22,27,16
 2018,14,8,FC Sion,4,2,8,21,25,14
 2018,14,9,Grasshopper Club Zürich,4,2,8,17,27,14
-2018,14,10,Neuchâtel Xamax FCS,2,5,7,18,30,11
+2018,14,10,Neuchâtel Xamax FC,2,5,7,18,30,11
 2018,15,1,BSC Young Boys,13,1,1,47,16,40
 2018,15,2,FC Basel,6,6,3,29,29,24
 2018,15,3,FC Thun,6,4,5,31,24,22
@@ -158,7 +158,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,15,7,FC Sion,5,2,8,23,26,17
 2018,15,8,Grasshopper Club Zürich,5,2,8,19,28,17
 2018,15,9,FC Lugano,4,4,7,22,28,16
-2018,15,10,Neuchâtel Xamax FCS,2,6,7,21,33,12
+2018,15,10,Neuchâtel Xamax FC,2,6,7,21,33,12
 2018,16,1,BSC Young Boys,14,1,1,50,17,43
 2018,16,2,FC Thun,7,4,5,33,24,25
 2018,16,3,FC Zürich,6,6,4,26,23,24
@@ -168,7 +168,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,16,7,FC Luzern,6,1,9,24,30,19
 2018,16,8,FC Lugano,4,5,7,24,30,17
 2018,16,9,Grasshopper Club Zürich,5,2,9,19,30,17
-2018,16,10,Neuchâtel Xamax FCS,2,7,7,23,35,13
+2018,16,10,Neuchâtel Xamax FC,2,7,7,23,35,13
 2018,17,1,BSC Young Boys,15,1,1,53,19,46
 2018,17,2,FC Basel,7,6,4,32,32,27
 2018,17,3,FC Thun,7,4,6,35,27,25
@@ -178,7 +178,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,17,7,FC Sion,6,3,8,27,28,21
 2018,17,8,FC Lugano,4,6,7,26,32,18
 2018,17,9,Grasshopper Club Zürich,5,2,10,21,33,17
-2018,17,10,Neuchâtel Xamax FCS,2,7,8,25,38,13
+2018,17,10,Neuchâtel Xamax FC,2,7,8,25,38,13
 2018,18,1,BSC Young Boys,16,1,1,57,20,49
 2018,18,2,FC Basel,8,6,4,34,33,30
 2018,18,3,FC Thun,8,4,6,36,27,28
@@ -188,7 +188,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,18,7,FC Sion,6,3,9,28,30,21
 2018,18,8,FC Lugano,4,7,7,26,32,19
 2018,18,9,Grasshopper Club Zürich,5,2,11,21,34,17
-2018,18,10,Neuchâtel Xamax FCS,2,7,9,26,42,13
+2018,18,10,Neuchâtel Xamax FC,2,7,9,26,42,13
 2018,19,1,BSC Young Boys,17,1,1,59,20,52
 2018,19,2,FC Basel,9,6,4,38,33,33
 2018,19,3,FC Thun,9,4,6,39,28,31
@@ -198,7 +198,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,19,7,FC Sion,7,3,9,31,31,24
 2018,19,8,FC Lugano,4,7,8,27,35,19
 2018,19,9,Grasshopper Club Zürich,5,2,12,21,38,17
-2018,19,10,Neuchâtel Xamax FCS,2,7,10,26,44,13
+2018,19,10,Neuchâtel Xamax FC,2,7,10,26,44,13
 2018,20,1,BSC Young Boys,17,2,1,60,21,53
 2018,20,2,FC Basel,9,7,4,39,34,34
 2018,20,3,FC Thun,9,5,6,40,29,32
@@ -208,7 +208,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,20,7,FC Luzern,8,1,11,31,38,25
 2018,20,8,FC Lugano,4,8,8,29,37,20
 2018,20,9,Grasshopper Club Zürich,5,2,13,22,41,17
-2018,20,10,Neuchâtel Xamax FCS,3,7,10,28,45,16
+2018,20,10,Neuchâtel Xamax FC,3,7,10,28,45,16
 2018,21,1,BSC Young Boys,18,2,1,62,21,56
 2018,21,2,FC Basel,10,7,4,40,34,37
 2018,21,3,FC Thun,10,5,6,43,30,35
@@ -217,7 +217,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,21,6,FC Sion,7,4,10,33,34,25
 2018,21,7,FC Luzern,8,1,12,31,41,25
 2018,21,8,FC Lugano,5,8,8,32,37,23
-2018,21,9,Neuchâtel Xamax FCS,4,7,10,29,45,19
+2018,21,9,Neuchâtel Xamax FC,4,7,10,29,45,19
 2018,21,10,Grasshopper Club Zürich,5,2,14,22,42,17
 2018,22,1,BSC Young Boys,19,2,1,63,21,59
 2018,22,2,FC Basel,11,7,4,42,34,40
@@ -227,7 +227,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,22,6,FC Sion,7,5,10,35,36,26
 2018,22,7,FC Luzern,8,2,12,32,42,26
 2018,22,8,FC Lugano,5,8,9,32,38,23
-2018,22,9,Neuchâtel Xamax FCS,4,7,11,29,47,19
+2018,22,9,Neuchâtel Xamax FC,4,7,11,29,47,19
 2018,22,10,Grasshopper Club Zürich,5,3,14,23,43,18
 2018,23,1,BSC Young Boys,20,2,1,64,21,62
 2018,23,2,FC Basel,12,7,4,45,35,43
@@ -237,7 +237,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,23,6,FC Luzern,9,2,12,35,43,29
 2018,23,7,FC Sion,7,5,11,35,37,26
 2018,23,8,FC Lugano,6,8,9,33,38,26
-2018,23,9,Neuchâtel Xamax FCS,4,7,12,29,50,19
+2018,23,9,Neuchâtel Xamax FC,4,7,12,29,50,19
 2018,23,10,Grasshopper Club Zürich,5,3,15,24,46,18
 2018,24,1,BSC Young Boys,21,2,1,65,21,65
 2018,24,2,FC Basel,12,8,4,46,36,44
@@ -247,7 +247,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,24,6,FC Zürich,7,9,8,33,35,30
 2018,24,7,FC Lugano,6,9,9,34,39,27
 2018,24,8,FC Sion,7,5,12,36,40,26
-2018,24,9,Neuchâtel Xamax FCS,5,7,12,32,51,22
+2018,24,9,Neuchâtel Xamax FC,5,7,12,32,51,22
 2018,24,10,Grasshopper Club Zürich,5,3,16,24,47,18
 2018,25,1,BSC Young Boys,21,3,1,67,23,66
 2018,25,2,FC Basel,12,9,4,48,38,45
@@ -257,7 +257,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,25,6,FC St. Gallen,9,4,12,37,46,31
 2018,25,7,FC Lugano,7,9,9,36,39,30
 2018,25,8,FC Sion,8,5,12,39,40,29
-2018,25,9,Neuchâtel Xamax FCS,5,7,13,33,53,22
+2018,25,9,Neuchâtel Xamax FC,5,7,13,33,53,22
 2018,25,10,Grasshopper Club Zürich,5,3,17,24,50,18
 2018,26,1,BSC Young Boys,22,3,1,70,25,69
 2018,26,2,FC Basel,13,9,4,49,38,48
@@ -267,7 +267,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,26,6,FC Sion,9,5,12,40,40,32
 2018,26,7,FC Lugano,7,10,9,37,40,31
 2018,26,8,FC St. Gallen,9,4,13,39,49,31
-2018,26,9,Neuchâtel Xamax FCS,6,7,13,36,55,25
+2018,26,9,Neuchâtel Xamax FC,6,7,13,36,55,25
 2018,26,10,Grasshopper Club Zürich,5,4,17,25,51,19
 2018,27,1,BSC Young Boys,23,3,1,73,26,72
 2018,27,2,FC Basel,14,9,4,51,38,51
@@ -277,7 +277,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,27,6,FC Luzern,10,3,14,40,48,33
 2018,27,7,FC Lugano,7,11,9,37,40,32
 2018,27,8,FC St. Gallen,9,5,13,39,49,32
-2018,27,9,Neuchâtel Xamax FCS,6,8,13,36,55,26
+2018,27,9,Neuchâtel Xamax FC,6,8,13,36,55,26
 2018,27,10,Grasshopper Club Zürich,5,5,17,25,51,20
 2018,28,1,BSC Young Boys,24,3,1,78,27,75
 2018,28,2,FC Basel,14,10,4,52,39,52
@@ -287,7 +287,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,28,6,FC Zürich,8,10,10,36,40,34
 2018,28,7,FC Luzern,10,4,14,42,50,34
 2018,28,8,FC Lugano,7,12,9,38,41,33
-2018,28,9,Neuchâtel Xamax FCS,6,8,14,36,56,26
+2018,28,9,Neuchâtel Xamax FC,6,8,14,36,56,26
 2018,28,10,Grasshopper Club Zürich,5,6,17,26,52,21
 2018,29,1,BSC Young Boys,25,3,1,79,27,78
 2018,29,2,FC Basel,14,11,4,52,39,53
@@ -297,7 +297,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,29,6,FC Lugano,7,13,9,39,42,34
 2018,29,7,FC Zürich,8,10,11,36,41,34
 2018,29,8,FC Luzern,10,4,15,42,51,34
-2018,29,9,Neuchâtel Xamax FCS,7,8,14,37,56,29
+2018,29,9,Neuchâtel Xamax FC,7,8,14,37,56,29
 2018,29,10,Grasshopper Club Zürich,5,7,17,26,52,22
 2018,30,1,BSC Young Boys,25,3,2,79,28,78
 2018,30,2,FC Basel,15,11,4,55,39,56
@@ -307,7 +307,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,30,6,FC Luzern,11,4,15,44,52,37
 2018,30,7,FC St. Gallen,10,6,14,41,51,36
 2018,30,8,FC Zürich,8,10,12,36,44,34
-2018,30,9,Neuchâtel Xamax FCS,8,8,14,38,56,32
+2018,30,9,Neuchâtel Xamax FC,8,8,14,38,56,32
 2018,30,10,Grasshopper Club Zürich,5,8,17,27,53,23
 2018,31,1,BSC Young Boys,25,4,2,81,30,79
 2018,31,2,FC Basel,16,11,4,58,39,59
@@ -317,7 +317,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,31,6,FC Sion,10,7,14,45,48,37
 2018,31,7,FC Zürich,9,10,12,37,44,37
 2018,31,8,FC St. Gallen,10,6,15,41,54,36
-2018,31,9,Neuchâtel Xamax FCS,8,9,14,39,57,33
+2018,31,9,Neuchâtel Xamax FC,8,9,14,39,57,33
 2018,31,10,Grasshopper Club Zürich,5,9,17,28,54,24
 2018,32,1,BSC Young Boys,26,4,2,85,30,82
 2018,32,2,FC Basel,17,11,4,61,39,62
@@ -327,7 +327,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,32,6,FC St. Gallen,11,6,15,42,54,39
 2018,32,7,FC Sion,10,7,15,45,52,37
 2018,32,8,FC Zürich,9,10,13,37,47,37
-2018,32,9,Neuchâtel Xamax FCS,9,9,14,41,57,36
+2018,32,9,Neuchâtel Xamax FC,9,9,14,41,57,36
 2018,32,10,Grasshopper Club Zürich,5,9,18,28,55,24
 2018,33,1,BSC Young Boys,27,4,2,88,31,85
 2018,33,2,FC Basel,17,11,5,62,42,62
@@ -337,7 +337,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,33,6,FC Lugano,9,14,10,45,45,41
 2018,33,7,FC Zürich,10,10,13,39,48,40
 2018,33,8,FC Sion,10,7,16,46,54,37
-2018,33,9,Neuchâtel Xamax FCS,9,9,15,42,59,36
+2018,33,9,Neuchâtel Xamax FC,9,9,15,42,59,36
 2018,33,10,Grasshopper Club Zürich,5,9,19,28,59,24
 2018,34,1,BSC Young Boys,28,4,2,94,32,88
 2018,34,2,FC Basel,18,11,5,65,44,65
@@ -347,7 +347,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,34,6,FC Zürich,11,10,13,42,48,43
 2018,34,7,FC St. Gallen,12,6,16,44,56,42
 2018,34,8,FC Sion,11,7,16,47,54,40
-2018,34,9,Neuchâtel Xamax FCS,9,9,16,42,60,36
+2018,34,9,Neuchâtel Xamax FC,9,9,16,42,60,36
 2018,34,10,Grasshopper Club Zürich,5,9,20,29,65,24
 2018,35,1,BSC Young Boys,28,4,3,95,36,88
 2018,35,2,FC Basel,19,11,5,67,45,68
@@ -357,7 +357,7 @@ season,matchday,place,team,wins,daws,loses,goals for,goals against,points
 2018,35,6,FC Thun,11,10,14,56,58,43
 2018,35,7,FC Sion,12,7,16,50,54,43
 2018,35,8,FC Zürich,11,10,14,42,51,43
-2018,35,9,Neuchâtel Xamax FCS,9,10,16,43,61,37
+2018,35,9,Neuchâtel Xamax FC,9,10,16,43,61,37
 2018,35,10,Grasshopper Club Zürich,5,9,21,29,68,24
 2011,1,1,FC Luzern,1,0,0,3,0,3
 2011,1,2,Grasshopper Club Zürich,1,0,0,2,0,3
