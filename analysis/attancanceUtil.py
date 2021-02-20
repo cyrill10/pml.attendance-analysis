@@ -36,5 +36,10 @@ def calc_point_average_before_game(season, matchday, team):
         return 0
     table = league_table_df.loc[season]
     mask = np.logical_and(table['matchday'] == matchday, table['team'] == team)
-    points = table[mask]
-    return points['points'][season]/matchday
+    point_df = table[mask]
+    points = point_df['points'][season]
+    if season == 2004 and team == 'Servette Genève':
+        points += 3
+    if season == 2011 and team == 'FC Sion':
+        points += 36
+    return points/matchday
