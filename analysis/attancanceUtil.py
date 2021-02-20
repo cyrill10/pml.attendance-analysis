@@ -15,6 +15,22 @@ def custom_date_parser(x):
     return result
 
 
+def time_categorizer(x):
+    result = []
+    locale.setlocale(locale.LC_ALL, 'de_DE')
+    for value in x:
+        time = datetime.strptime(value, '%H:%M')
+        afternoonSplit = datetime.strptime('15:00', '%H:%M')
+        eveningSplit = datetime.strptime('18:30', '%H:%M')
+        if time < afternoonSplit:
+            result.append("noon")
+        elif time < eveningSplit:
+            result.append("afternoon")
+        else:
+            result.append("evening")
+    return result
+
+
 def calc_dist(hometeam, awayteam):
     home = team_coordinates_df.loc[hometeam]
     away = team_coordinates_df.loc[awayteam]
