@@ -141,3 +141,6 @@ for line in teamData:
                         print("Bad URL: " + " " + urlSecondGame)
 
         print("done " + year + " " + team)
+
+teamData.close()
+matchFile.close()

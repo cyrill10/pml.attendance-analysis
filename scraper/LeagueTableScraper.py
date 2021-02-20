@@ -34,3 +34,5 @@ while latestSeason < LAST_SEASON:
 
             file.write(str(latestSeason) + "," + str(latestMatchday) + "," + str(pos) + "," + name + "," + win + "," + draw + "," + lose + "," + gf + "," + ga + "," + points +"\n")
     print("done " + str(latestSeason))
+
+file.close()

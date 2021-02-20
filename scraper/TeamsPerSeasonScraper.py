@@ -23,3 +23,5 @@ while latestSeason < LAST_SEASON:
         file.write("," + columns[2].a.contents[0])
     file.write("\n")
     print("done " + str(latestSeason))
+
+file.close()

@@ -30,11 +30,11 @@ def determine_season(date: datetime):
     return year
 
 
-def calc_points_before_game(season, matchday, team):
+def calc_point_average_before_game(season, matchday, team):
     matchday -= 1
     if matchday == 0:
-        return 0, 0
+        return 0
     table = league_table_df.loc[season]
-    home_mask = np.logical_and(table['matchday'] == matchday, table['team'] == team)
-    points_home = table[home_mask]
-    return points_home['points'][season]
+    mask = np.logical_and(table['matchday'] == matchday, table['team'] == team)
+    points = table[mask]
+    return points['points'][season]/matchday
