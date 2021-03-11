@@ -31,6 +31,21 @@ def time_categorizer(x):
     return result
 
 
+def matchday_categorizer(x):
+    result = []
+    for value in x:
+        if value < 36/4:
+            result.append("first_quarter")
+        elif value < 36/2:
+            result.append("second_quarter")
+        elif value < 3*36/4:
+            result.append("third_quarter")
+        else:
+            result.append("fourth_quarter")
+    return result
+
+
+
 def calc_dist(hometeam, awayteam):
     home = team_coordinates_df.loc[hometeam]
     away = team_coordinates_df.loc[awayteam]
