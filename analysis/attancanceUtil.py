@@ -124,12 +124,7 @@ def calc_weather_data(date, hometeam):
     date = int(date.strftime("%Y%m%d"))
     rain = weather_df.loc[date]['rre150d0']
     sun = weather_df.loc[date]['sre000d0']
+    if sun == '-':
+        sun = 0
     avg_temp = weather_df.loc[date]['tre200d0']
-    return rain, sun, avg_temp
-
-
-def calc_weather_data2(date, hometeam):
-    rain = 1
-    sun = 5
-    avg_temp = 8
     return rain, sun, avg_temp
