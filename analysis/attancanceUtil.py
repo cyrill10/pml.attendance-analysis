@@ -112,5 +112,24 @@ def calc_point_average_from_last_five_games(season, matchday, team, attendance_d
     home_results = home_df[home_df['matchday'].isin(matchdays)]
     away_results = away_df[away_df['matchday'].isin(matchdays)]
     results = pd.concat([home_results, away_results], ignore_index=True)
-    results['points'] = np.where(results['for'] > results['against'], 3, np.where(results['for'] == results['against'], 1, 0))
+    results['points'] = np.where(results['for'] > results['against'], 3,
+                                 np.where(results['for'] == results['against'], 1, 0))
     return sum(results.loc[:, 'points']) / len(results)
+
+
+def calc_weather_data(date, hometeam):
+    weather_station = team_coordinates_df.loc[hometeam][2]
+    weather_df = pd.read_csv('../data/weather/' + weather_station + '.csv',
+                             sep=';', index_col=1, header=0)
+    date = int(date.strftime("%Y%m%d"))
+    rain = weather_df.loc[date]['rre150d0']
+    sun = weather_df.loc[date]['sre000d0']
+    avg_temp = weather_df.loc[date]['tre200d0']
+    return rain, sun, avg_temp
+
+
+def calc_weather_data2(date, hometeam):
+    rain = 1
+    sun = 5
+    avg_temp = 8
+    return rain, sun, avg_temp
