@@ -101,7 +101,7 @@ def calc_last_seasons_position(season, team):
 
 def calc_point_average_from_last_five_games(season, matchday, team, attendance_df):
     if matchday == 1:
-        return 0
+        return 1.5
     matchdays = np.arange(matchday-min(5, matchday-1), matchday)
     home_mask = np.logical_and(attendance_df['hometeam'] == team, attendance_df['season'] == season)
     away_mask = np.logical_and(attendance_df['awayteam'] == team, attendance_df['season'] == season)
