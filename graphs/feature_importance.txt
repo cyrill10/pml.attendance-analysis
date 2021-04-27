@@ -1,0 +1,57 @@
+                             feature  importance
+24                 hometeam_FC Basel    0.504117
+22           hometeam_BSC Young Boys    0.170904
+1                             season    0.057568
+2                      team_distance    0.034780
+3                        points_home    0.030161
+30            hometeam_FC St. Gallen    0.029185
+27                hometeam_FC Luzern    0.019189
+34                hometeam_FC Zürich    0.015160
+29                  hometeam_FC Sion    0.014581
+0                           matchday    0.013623
+41                 awayteam_FC Basel    0.011786
+8          last_season_position_away    0.010646
+4                        points_away    0.010527
+13                          temp_avg    0.009935
+9                          form_home    0.008866
+12                               sun    0.007147
+5                      position_home    0.006552
+7          last_season_position_home    0.006368
+10                         form_away    0.006197
+6                      position_away    0.004640
+37          hometeam_Servette Genève    0.003598
+11                              rain    0.003367
+31                  hometeam_FC Thun    0.002616
+18                   weekday_Samstag    0.002145
+35  hometeam_Grasshopper Club Zürich    0.001778
+45          awayteam_FC Schaffhausen    0.001599
+20                      time_evening    0.001266
+19                   weekday_Sonntag    0.001053
+48                  awayteam_FC Thun    0.000968
+39           awayteam_BSC Young Boys    0.000750
+51                awayteam_FC Zürich    0.000709
+52  awayteam_Grasshopper Club Zürich    0.000678
+17                    weekday_Montag    0.000657
+47            awayteam_FC St. Gallen    0.000643
+36       hometeam_Neuchâtel Xamax FC    0.000538
+16                  weekday_Mittwoch    0.000498
+23                 hometeam_FC Aarau    0.000482
+14                weekday_Donnerstag    0.000469
+21                         time_noon    0.000405
+44                awayteam_FC Luzern    0.000379
+28          hometeam_FC Schaffhausen    0.000364
+40                 awayteam_FC Aarau    0.000354
+15                   weekday_Freitag    0.000349
+46                  awayteam_FC Sion    0.000335
+54          awayteam_Servette Genève    0.000331
+26                hometeam_FC Lugano    0.000299
+53       awayteam_Neuchâtel Xamax FC    0.000281
+49                 awayteam_FC Vaduz    0.000251
+25        hometeam_FC Lausanne-Sport    0.000225
+32                 hometeam_FC Vaduz    0.000221
+42        awayteam_FC Lausanne-Sport    0.000218
+55         awayteam_Yverdon-Sport FC    0.000127
+43                awayteam_FC Lugano    0.000054
+50              awayteam_FC Wil 1900    0.000039
+33              hometeam_FC Wil 1900    0.000010
+38         hometeam_Yverdon-Sport FC    0.000010

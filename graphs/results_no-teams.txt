@@ -1,0 +1,22 @@
+
+                           names  fitting_time  pred_time        r2  \
+0               LinearRegression      0.006148   0.000050  0.522644   
+1                          Lasso      0.008201   0.000064  0.522710   
+2                          Ridge      0.000605   0.000046  0.522645   
+3            KNeighborsRegressor      0.004239   0.000315  0.486287   
+4          DecisionTreeRegressor      0.005170   0.000047  0.623789   
+5          RandomForestRegressor      2.771079   0.008312  0.793669   
+6              AdaBoostRegressor      0.189154   0.001756  0.575439   
+7      GradientBoostingRegressor      0.393842   0.000100  0.757541   
+8  HistGradientBoostingRegressor      0.417290   0.001826  0.828127   
+
+       ms_error  
+0  2.538123e+07  
+1  2.537773e+07  
+2  2.538123e+07  
+3  2.731436e+07  
+4  2.000332e+07  
+5  1.097073e+07  
+6  2.257411e+07  
+7  1.289167e+07  
+8  9.138558e+06 
